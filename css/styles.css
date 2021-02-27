@@ -19,7 +19,7 @@ ul.menu a {
     color: #f5f5f5;
     text-decoration: underline;
     text-transform: uppercase;
-   /*  expand the clickable/ tap area to fill the entire lim vs just the text itself */
+   /* expand the clickable/ tap area to fill the entire lim vs just the text itself */
    display: block;
    padding: 1rem;
 }
